@@ -1,4 +1,4 @@
-package it.edu.iisgubbio.grafo;
+package it.edu.issgubbio.fcfs;
 public class Fcfs {
 	String processi[];
 	int tempoAttesa[];
